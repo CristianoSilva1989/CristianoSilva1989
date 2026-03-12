@@ -136,9 +136,9 @@
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="200" 
-        style="padding-right: 10px;" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristianoSilva1989&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      height="200"
+      style="padding-right: 10px;" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristianoSilva1989&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=7" 
   />
 
 </p>
