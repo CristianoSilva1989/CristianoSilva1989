@@ -142,4 +142,3 @@
 
 </p>
 
-![snake gif](https://github.com/CristianoSilva1989/CristianoSilva1989/blob/output/github-contribution-grid-snake.svg)
